@@ -106,9 +106,9 @@
   }
 }
 @media (max-width: 768px) and (min-height: 556px) and (max-height: 1024px) {
-  .header-row {
+  /* .header-row {
     padding: calc((100vh - 556px) * 13 / 468 + 3px) 0;
-  }
+  } */
   .content {
     padding: calc((100vh - 556px) * 10 / 468 + 0px) 0;
   }
@@ -137,9 +137,9 @@
   }
 }
 @media (max-width: 768px) and (min-height: 1024px) {
-  .header-row {
+  /* .header-row {
     padding: calc((100vh - 556px) * 0 / 468 + 16px) 0;
-  }
+  } */
   .content {
     padding: calc((100vh - 556px) * 0 / 468 + 10px) 0;
   }
